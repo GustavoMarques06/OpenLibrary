@@ -25,7 +25,7 @@ Ela foi construida utilizando a arquitetura de **Service Pattern**, garantindo u
 ```bash
     Add-Migration Inicial
 ```
-2- Para criar o banco de dados, execute:
+2- Para criar o banco de dados, execute no Package Manager Console:
 ```bash
     Update-Database
 ```
